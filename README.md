@@ -17,4 +17,4 @@ The pipeline ingests raw transactional data, fixes structural formatting, resolv
 - **Missing Data Imputation:** Filled 479 null entries in Quantity, 533 in Unit Price, 2,579 in Payment Method, and 3,265 in Location.
 
 ## Project Status
-**Successfully Completed**
+**Successfully Completed for Thiranex Company Task****
